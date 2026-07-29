@@ -1,66 +1,110 @@
-<h1 align="center">Hi, I'm Priyanshu Pandey 👋</h1>
+<div align="center">
 
-<p align="center">
-<b>B.Tech CSE Student @ IIIT Bhopal</b>
+# Hey 👋 I'm Priyanshu Pandey 
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=E93F3F&center=true&vCenter=true&width=650&lines=Software+Engineer.;Full+Stack+Developer." />
+
+</div>
+
+---
+
+<table>
+<tr>
+
+<td width="55%" valign="top">
+
+## 🚀 About Me
+
+💻 Software Engineer focused on Full Stack Development & Backend Engineering.
+
+🎓 4th Year CSE @ IIIT Bhopal.
+
+🧩 Solved **800+ DSA Problems**, strengthening algorithmic thinking and coding fundamentals.
+
+🏗️ Passionate about designing scalable applications, efficient APIs, and robust backend systems.
+
+🌱 Constantly learning, building, and shipping impactful products.
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://github.com/user-attachments/assets/ee33df7b-3f6f-486e-adae-2f3e34039b07" width="270"/>
+
+</td>
+
+</tr>
+</table>
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python" />
 </p>
 
-<p align="center">
-<i>"Strong foundations, consistent problem solving, and learning by building."</i>
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel" />
 </p>
 
 ---
 
+# 📊 Competitive Programming
+
+<div align="center">
+
+| Platform | Achievement |
+|----------|-------------|
+| 🟤 CodeChef | ⭐⭐⭐ (3 Star) |
+| 🟡 LeetCode | 1700+ Rating |
+| 🔵 Codeforces | Pupil |
+| ✅ Problems Solved | **800+** |
+
+</div>
+
+---
+
+# 🏆 Featured Project
+
+🚀 **Xode** — AI Powered Browser IDE
+
+> Build, Debug, and Chat with AI in one workspace.
+
+---
+
+# 🌐 Coding Profiles
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/priyanshu-pandey-958376290/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:pandeypriyanshu4556@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://leetcode.com/pandeyxd">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
-  </a>
-  <a href="https://codeforces.com/profile/pandey_x8">
-    <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces">
-  </a>
-  <a href="https://www.codechef.com/users/pandeyxd">
-    <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef">
-  </a>
-  <a href="https://codolio.com/profile/pandeyxd">
-    <img src="https://img.shields.io/badge/Codolio-black?style=for-the-badge">
-  </a>
+<a href="https://leetcode.com/pandeyxd"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/pandey_x8"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/pandeyxd"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://codolio.com/profile/pandeyxd"><img src="https://img.shields.io/badge/Codolio-black?style=for-the-badge"/></a>
 </p>
 
 ---
 
-## ⚡ About Me
+<div align="center">
 
-I am a **Computer Science undergraduate** with a strong foundation in **C and C++** and a growing interest in **software engineering fundamentals**.  
-I enjoy solving algorithmic problems and improving through consistent practice.
+### 💭 Quote I Live By
 
-- 🎯 **Current Focus:** Data Structures & Algorithms and Web Development  
-- ⭐ **3★ CodeChef**
-- 🔥 **1700+ LeetCode rating**
-- ✅ **600+ problems solved** across platforms
+> **Eat. Sleep. Build. Repeat. 🚀**
 
----
+<img src="https://komarev.com/ghpvc/?username=pandeyx8&label=Profile+Views&color=E93F3F&style=for-the-badge"/>
 
-## 🛠 Tech Stack
+⭐ If you like my work, consider giving a star to my repositories!
 
-### 🚀 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-
-### 🌱 Currently Learning
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-black?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
----
----
-
-<p align="center">
-⭐ Consistency > intensity. Improving every day.
-</p>
+</div>
